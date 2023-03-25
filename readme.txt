@@ -1,2 +1,1 @@
-Hello World
-another line
+Commonly know 'Hello World' function written in every language that I know so far...
